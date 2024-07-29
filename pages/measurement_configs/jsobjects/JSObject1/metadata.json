@@ -1,0 +1,16 @@
+{
+  "gitSyncId": "66a3d9564839614e01725e62_5e130346-badf-48b6-9293-66152b09448f",
+  "id": "measurement_configs_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "measurement_configs",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "measurements",
+        "value": "[]"
+      }
+    ]
+  }
+}

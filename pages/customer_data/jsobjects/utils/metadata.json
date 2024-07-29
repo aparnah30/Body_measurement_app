@@ -1,0 +1,16 @@
+{
+  "gitSyncId": "66a3d9564839614e01725e62_868ad749-e8e7-418e-9d2a-9bf917fdaa1f",
+  "id": "customer_data_utils",
+  "unpublishedCollection": {
+    "name": "utils",
+    "pageId": "customer_data",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "customers",
+        "value": "[]"
+      }
+    ]
+  }
+}

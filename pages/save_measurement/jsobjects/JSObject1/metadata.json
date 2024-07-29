@@ -1,0 +1,16 @@
+{
+  "gitSyncId": "66a3d9564839614e01725e62_e4747e04-b489-4a0b-a330-a67959473fed",
+  "id": "save_measurement_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "save_measurement",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "categories",
+        "value": "[]"
+      }
+    ]
+  }
+}

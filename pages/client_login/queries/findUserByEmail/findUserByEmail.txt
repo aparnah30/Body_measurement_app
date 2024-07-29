@@ -1,0 +1,1 @@
+SELECT * FROM Clients WHERE client_email = '{{inp_email.text}}';

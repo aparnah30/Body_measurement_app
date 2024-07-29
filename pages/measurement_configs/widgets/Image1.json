@@ -1,0 +1,44 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 45,
+  "boxShadow": "none",
+  "defaultImage": "https://www.assemblyai.com/blog/content/images/2022/04/pose_wireframe.png",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "enableDownload": false,
+  "enableRotation": false,
+  "flexVerticalAlignment": "start",
+  "image": "",
+  "imageShape": "RECTANGLE",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "bvaz5fypok",
+  "leftColumn": 7,
+  "maxZoomLevel": 1,
+  "mobileBottomRow": 24,
+  "mobileLeftColumn": 24,
+  "mobileRightColumn": 36,
+  "mobileTopRow": 12,
+  "needsErrorInfo": false,
+  "objectFit": "cover",
+  "onClick": "{{JSObject2.handleImageClick();}}",
+  "parentColumnSpace": 19.8125,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 19,
+  "topRow": 13,
+  "type": "IMAGE_WIDGET",
+  "version": 1,
+  "widgetId": "ayefukgdjm",
+  "widgetName": "Image1"
+}

@@ -1,0 +1,16 @@
+{
+  "gitSyncId": "66a3d9564839614e01725e62_43e30759-50fc-43b9-a49d-711ff264f4a9",
+  "id": "measurement_configs_JSObject2",
+  "unpublishedCollection": {
+    "name": "JSObject2",
+    "pageId": "measurement_configs",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "selectedPoints",
+        "value": "[]"
+      }
+    ]
+  }
+}

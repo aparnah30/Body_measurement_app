@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "66a3d9564839614e01725e62_a6597631-8d69-433d-94fb-e5c59925528e",
+  "id": "Customer_measurement_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Customer_measurement",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}

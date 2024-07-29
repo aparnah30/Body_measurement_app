@@ -1,0 +1,52 @@
+{
+  "appIsExample": false,
+  "appLayout": {
+    "type": "DESKTOP"
+  },
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "color": "#D6D1F2",
+  "evaluationVersion": 2,
+  "icon": "bird",
+  "pages": [
+    {
+      "id": "customer_data",
+      "isDefault": false
+    },
+    {
+      "id": "client_login",
+      "isDefault": false
+    },
+    {
+      "id": "Clinet_login",
+      "isDefault": true
+    },
+    {
+      "id": "measurement_configs",
+      "isDefault": false
+    },
+    {
+      "id": "save_measurement",
+      "isDefault": false
+    },
+    {
+      "id": "Customer_UI",
+      "isDefault": false
+    },
+    {
+      "id": "Customer_measurement",
+      "isDefault": false
+    },
+    {
+      "id": "Customer_front_img",
+      "isDefault": false
+    },
+    {
+      "id": "Customer_side_img",
+      "isDefault": false
+    }
+  ],
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  }
+}
