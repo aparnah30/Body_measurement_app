@@ -29,7 +29,7 @@
   "isVisible": true,
   "key": "d80868s2dr",
   "leftColumn": 2,
-  "onClick": "{{functions.signIn();}}",
+  "onClick": "{{navigateTo('Client_UI', {}, 'SAME_WINDOW');}}",
   "originalBottomRow": 46,
   "originalTopRow": 40,
   "parentColumnSpace": 18.1875,

@@ -4,7 +4,7 @@
   "borderColor": "#93c5fd",
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
   "borderWidth": "3",
-  "bottomRow": 32,
+  "bottomRow": 34,
   "dynamicBindingPathList": [
     {
       "key": "truncateButtonColor"
@@ -30,8 +30,8 @@
   "mobileRightColumn": 37,
   "mobileTopRow": 68,
   "needsErrorInfo": false,
-  "originalBottomRow": 28,
-  "originalTopRow": 13,
+  "originalBottomRow": 34,
+  "originalTopRow": 15,
   "overflow": "NONE",
   "parentColumnSpace": 19.8125,
   "parentId": "0",
@@ -44,7 +44,7 @@
   "text": "Steps to add your measurements:\n\n1. Click on the image to select the first point.\n2. Click again to select the second point.\n3. Click \"Add Measurement\" to save.\n4. Click \"Save Measurement.\"\n5. Select an existing category or click \"Add New Category.\"\n6. If adding a new category, enter the name and click \"Save Category.\"\n7. Click \"Save\" to confirm.",
   "textAlign": "LEFT",
   "textColor": "#231F20",
-  "topRow": 13,
+  "topRow": 15,
   "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
   "type": "TEXT_WIDGET",
   "version": 1,

@@ -1,12 +1,12 @@
 {
-  "gitSyncId": "66a3d9564839614e01725e62_42195f5a-9c29-45cc-a2a6-e97269f9d235",
+  "gitSyncId": "66a3d9564839614e01725e62_26b778bb-13c4-4d4e-aaa8-6527c111b70c",
   "unpublishedPage": {
     "isHidden": false,
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 460,
+          "bottomRow": 440,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
@@ -26,7 +26,7 @@
         }
       }
     ],
-    "name": "Customer_front_img",
-    "slug": "customer-front-img"
+    "name": "Client_UI",
+    "slug": "client-ui"
   }
 }

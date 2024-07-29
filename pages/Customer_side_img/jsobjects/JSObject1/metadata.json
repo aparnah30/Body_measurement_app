@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "66a3d9564839614e01725e62_54766c92-bfe6-4e4d-a51c-846837b6c746",
+  "id": "Customer_side_img_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Customer_side_img",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}

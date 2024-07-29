@@ -1,42 +1,35 @@
 {
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 50,
+  "bottomRow": 46,
   "boxShadow": "none",
   "dynamicBindingPathList": [
     {
       "key": "borderRadius"
     }
   ],
-  "dynamicPropertyPathList": [
-    {
-      "key": "onImageSave"
-    }
-  ],
-  "dynamicTriggerPathList": [],
   "flexVerticalAlignment": "start",
   "isCanvas": false,
   "isDisabled": false,
   "isLoading": false,
   "isMirrored": true,
   "isVisible": true,
-  "key": "2cb4hj670w",
+  "key": "cgqq2muto5",
   "leftColumn": 16,
-  "mobileBottomRow": 60,
-  "mobileLeftColumn": 15,
-  "mobileRightColumn": 40,
-  "mobileTopRow": 27,
+  "mobileBottomRow": 53,
+  "mobileLeftColumn": 13,
+  "mobileRightColumn": 38,
+  "mobileTopRow": 20,
   "mode": "CAMERA",
   "needsErrorInfo": false,
-  "onImageSave": "{{}}",
   "parentColumnSpace": 19.8125,
   "parentId": "0",
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
   "responsiveBehavior": "hug",
   "rightColumn": 46,
-  "topRow": 11,
+  "topRow": 9,
   "type": "CAMERA_WIDGET",
   "version": 1,
-  "widgetId": "wurbh7jd7c",
+  "widgetId": "08tyq5kdl9",
   "widgetName": "Camera1"
 }

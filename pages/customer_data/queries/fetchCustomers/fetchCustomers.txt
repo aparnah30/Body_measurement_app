@@ -1,3 +1,0 @@
-SELECT customer_id, customer_name, customer_email, height, weight, customer_measurement, no_of_sessions, front_img, side_img
-FROM Customers
-WHERE client_id = '{{appsmith.store.client_id}}';

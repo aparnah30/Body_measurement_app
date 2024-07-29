@@ -21,13 +21,6 @@ export default {
 
 	createCustomer: async () => {
 		await createCustomer.run({
-			customer_name: inp_customerName.text,
-			customer_email: inp_customerEmail.text,
-			height: parseInt(inp_customerHeight.text, 10),
-			weight: parseInt(inp_customerWeight.text, 10),
-			front_img: inp_customerFrontImg.text,
-			side_img: inp_customerSideImg.text,
-			no_of_sessions: parseInt(inp_customerSessions.text, 10)
 		});
 
 		await this.getCustomers();

@@ -15,10 +15,6 @@
     },
     {
       "id": "client_login",
-      "isDefault": false
-    },
-    {
-      "id": "Clinet_login",
       "isDefault": true
     },
     {
@@ -43,6 +39,22 @@
     },
     {
       "id": "Customer_side_img",
+      "isDefault": false
+    },
+    {
+      "id": "Client_UI",
+      "isDefault": false
+    },
+    {
+      "id": "Admin_UI",
+      "isDefault": false
+    },
+    {
+      "id": "clients_data",
+      "isDefault": false
+    },
+    {
+      "id": "client's_customer_data",
       "isDefault": false
     }
   ],
