@@ -27,7 +27,7 @@
         }
       }
     ],
-    "name": "customer_data",
-    "slug": "customer-data"
+    "name": "client_customer_data",
+    "slug": "client-customer-data"
   }
 }

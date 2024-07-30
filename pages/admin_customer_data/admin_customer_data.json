@@ -1,12 +1,12 @@
 {
-  "gitSyncId": "66a3d9564839614e01725e62_a9a8fda0-9593-42b1-b4dc-8189215e90df",
+  "gitSyncId": "66a3d9564839614e01725e62_91f32741-b8ec-4fdf-8659-e57cf3c5f6b1",
   "unpublishedPage": {
     "isHidden": false,
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 830,
+          "bottomRow": 870,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
@@ -26,7 +26,7 @@
         }
       }
     ],
-    "name": "clients_data",
-    "slug": "clients-data"
+    "name": "admin_customer_data",
+    "slug": "admin-customer-data"
   }
 }

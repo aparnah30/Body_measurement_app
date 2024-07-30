@@ -1,6 +1,6 @@
 {
   "gitSyncId": "66a3d9564839614e01725e62_3e0008c4-8284-49a1-9363-b7bd9644cbe8",
-  "id": "customer_data_cloudinaryImageUpload",
+  "id": "client_customer_data_cloudinaryImageUpload",
   "pluginId": "restapi-plugin",
   "pluginType": "API",
   "unpublishedAction": {
@@ -51,7 +51,7 @@
     ],
     "executeOnLoad": false,
     "name": "cloudinaryImageUpload",
-    "pageId": "customer_data",
+    "pageId": "client_customer_data",
     "userSetOnLoad": false
   }
 }

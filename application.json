@@ -10,7 +10,7 @@
   "icon": "bird",
   "pages": [
     {
-      "id": "customer_data",
+      "id": "client_customer_data",
       "isDefault": false
     },
     {
@@ -50,11 +50,11 @@
       "isDefault": false
     },
     {
-      "id": "clients_data",
+      "id": "admin_clients_data",
       "isDefault": false
     },
     {
-      "id": "client's_customer_data",
+      "id": "admin_customer_data",
       "isDefault": false
     }
   ],

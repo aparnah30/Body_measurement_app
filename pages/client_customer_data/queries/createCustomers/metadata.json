@@ -1,6 +1,6 @@
 {
   "gitSyncId": "66a3d9564839614e01725e62_bcf9d793-1310-483e-a5f0-2956c7569377",
-  "id": "customer_data_createCustomers",
+  "id": "client_customer_data_createCustomers",
   "pluginId": "postgres-plugin",
   "pluginType": "DB",
   "unpublishedAction": {
@@ -29,7 +29,7 @@
     ],
     "executeOnLoad": false,
     "name": "createCustomers",
-    "pageId": "customer_data",
+    "pageId": "client_customer_data",
     "userSetOnLoad": false
   }
 }

@@ -30,7 +30,7 @@
   "mobileRightColumn": 8,
   "mobileTopRow": 7,
   "needsErrorInfo": false,
-  "onClick": "{{navigateTo('Customer_UI', {}, 'SAME_WINDOW');}}",
+  "onClick": "{{navigateTo('Customer_measurement', {}, 'SAME_WINDOW');}}",
   "parentColumnSpace": 19.8125,
   "parentId": "0",
   "parentRowSpace": 10,
